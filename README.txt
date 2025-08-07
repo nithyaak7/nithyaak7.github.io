@@ -1,1 +1,0 @@
-This website is the collection of Data Analytics Projects which is showcasing my ability to do data cleaning, mining, transforming and analyzing the dataset. The datasets used in these projects come from public sources like Kaggle, data.gov, github, etc.
